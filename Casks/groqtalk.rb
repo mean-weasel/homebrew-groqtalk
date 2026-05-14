@@ -1,8 +1,8 @@
 cask "groqtalk" do
-  version "1.10.2"
-  sha256 "c6cf80f0a0eacb624ab526caebe594450379171a5360d24117544471adc24417"
+  version "1.11.0"
+  sha256 "7905b508c87caa6ccb80a3c33b4918c1860cd5e9ac892d0dfd9ce5d49bd88bbc"
 
-  url "https://github.com/mean-weasel/groqtalk/releases/download/v1.10.2/GroqTalk-1.10.2-macos.dmg"
+  url "https://github.com/mean-weasel/groqtalk/releases/download/v1.11.0/GroqTalk-1.11.0-macos.dmg"
   name "GroqTalk"
   desc "Menu bar speech-to-text transcription powered by Groq"
   homepage "https://github.com/mean-weasel/groqtalk"
